@@ -21,7 +21,7 @@ const About = () => {
         <div className="flex items-center">
           <img
             className="max-w-[200px] max-h-[200px] rounded-full mr-12"
-            src="/avatar.png"
+            src="/assets/avatar.png"
             alt="Avatar"
           />
           <div className="flex flex-col max-w-xs">
