@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArquiteturaFrontEndBlog/static/css/main.285c44ea.css",
+    "main.js": "/ArquiteturaFrontEndBlog/static/js/main.749d6d56.js",
+    "static/js/787.f587e8d5.chunk.js": "/ArquiteturaFrontEndBlog/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/ArquiteturaFrontEndBlog/index.html",
+    "main.285c44ea.css.map": "/ArquiteturaFrontEndBlog/static/css/main.285c44ea.css.map",
+    "main.749d6d56.js.map": "/ArquiteturaFrontEndBlog/static/js/main.749d6d56.js.map",
+    "787.f587e8d5.chunk.js.map": "/ArquiteturaFrontEndBlog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285c44ea.css",
+    "static/js/main.749d6d56.js"
+  ]
+}
