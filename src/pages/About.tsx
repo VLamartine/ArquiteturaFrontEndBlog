@@ -13,7 +13,7 @@ const About = () => {
 
         setRecentPosts(fetchedRecentPosts);
       });
-  });
+  }, []);
 
   return (
     <div>
@@ -21,7 +21,7 @@ const About = () => {
         <div className="flex items-center">
           <img
             className="max-w-[200px] max-h-[200px] rounded-full mr-12"
-            src="/assets/avatar.png"
+            src={`/${process.env.REACT_APP_REPOSITORY}/avatar.png`}
             alt="Avatar"
           />
           <div className="flex flex-col max-w-xs">
